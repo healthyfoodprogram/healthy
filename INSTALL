@@ -1,0 +1,9 @@
+Building HealthyFoodProgram
+
+See doc/readme-qt.rst for instructions on building HealthyFoodProgram QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of HealthyFoodProgram.
+
+See doc/build-*.txt for instructions on building healthyfoodprogramd,
+the intended-for-services, no-graphical-interface, reference
+implementation of HealthyFoodProgram.
